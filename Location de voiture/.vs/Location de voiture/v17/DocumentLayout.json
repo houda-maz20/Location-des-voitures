@@ -1,0 +1,264 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dell\\source\\repos\\Location de voiture\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0D529E73-6070-46A8-90F5-0C0B6261F306}|Location de voiture\\Location de voiture.csproj|c:\\users\\dell\\source\\repos\\location de voiture\\location de voiture\\catalogue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D529E73-6070-46A8-90F5-0C0B6261F306}|Location de voiture\\Location de voiture.csproj|solutionrelative:location de voiture\\catalogue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D529E73-6070-46A8-90F5-0C0B6261F306}|Location de voiture\\Location de voiture.csproj|C:\\Users\\dell\\source\\repos\\Location de voiture\\location de voiture\\catalogue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0D529E73-6070-46A8-90F5-0C0B6261F306}|Location de voiture\\Location de voiture.csproj|solutionrelative:location de voiture\\catalogue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D529E73-6070-46A8-90F5-0C0B6261F306}|Location de voiture\\Location de voiture.csproj|C:\\Users\\dell\\source\\repos\\Location de voiture\\location de voiture\\locations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D529E73-6070-46A8-90F5-0C0B6261F306}|Location de voiture\\Location de voiture.csproj|solutionrelative:location de voiture\\locations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D529E73-6070-46A8-90F5-0C0B6261F306}|Location de voiture\\Location de voiture.csproj|C:\\Users\\dell\\source\\repos\\Location de voiture\\location de voiture\\connexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D529E73-6070-46A8-90F5-0C0B6261F306}|Location de voiture\\Location de voiture.csproj|solutionrelative:location de voiture\\connexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D529E73-6070-46A8-90F5-0C0B6261F306}|Location de voiture\\Location de voiture.csproj|C:\\Users\\dell\\source\\repos\\Location de voiture\\location de voiture\\chargement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D529E73-6070-46A8-90F5-0C0B6261F306}|Location de voiture\\Location de voiture.csproj|solutionrelative:location de voiture\\chargement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D529E73-6070-46A8-90F5-0C0B6261F306}|Location de voiture\\Location de voiture.csproj|C:\\Users\\dell\\source\\repos\\Location de voiture\\location de voiture\\voitures.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0D529E73-6070-46A8-90F5-0C0B6261F306}|Location de voiture\\Location de voiture.csproj|solutionrelative:location de voiture\\voitures.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D529E73-6070-46A8-90F5-0C0B6261F306}|Location de voiture\\Location de voiture.csproj|C:\\Users\\dell\\source\\repos\\Location de voiture\\location de voiture\\clients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0D529E73-6070-46A8-90F5-0C0B6261F306}|Location de voiture\\Location de voiture.csproj|solutionrelative:location de voiture\\clients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D529E73-6070-46A8-90F5-0C0B6261F306}|Location de voiture\\Location de voiture.csproj|C:\\Users\\dell\\source\\repos\\Location de voiture\\location de voiture\\voitures.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D529E73-6070-46A8-90F5-0C0B6261F306}|Location de voiture\\Location de voiture.csproj|solutionrelative:location de voiture\\voitures.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D529E73-6070-46A8-90F5-0C0B6261F306}|Location de voiture\\Location de voiture.csproj|C:\\Users\\dell\\source\\repos\\Location de voiture\\location de voiture\\connexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0D529E73-6070-46A8-90F5-0C0B6261F306}|Location de voiture\\Location de voiture.csproj|solutionrelative:location de voiture\\connexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D529E73-6070-46A8-90F5-0C0B6261F306}|Location de voiture\\Location de voiture.csproj|C:\\Users\\dell\\source\\repos\\Location de voiture\\location de voiture\\clients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D529E73-6070-46A8-90F5-0C0B6261F306}|Location de voiture\\Location de voiture.csproj|solutionrelative:location de voiture\\clients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D529E73-6070-46A8-90F5-0C0B6261F306}|Location de voiture\\Location de voiture.csproj|C:\\Users\\dell\\source\\repos\\Location de voiture\\location de voiture\\acceuil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D529E73-6070-46A8-90F5-0C0B6261F306}|Location de voiture\\Location de voiture.csproj|solutionrelative:location de voiture\\acceuil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D529E73-6070-46A8-90F5-0C0B6261F306}|Location de voiture\\Location de voiture.csproj|C:\\Users\\dell\\source\\repos\\Location de voiture\\location de voiture\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D529E73-6070-46A8-90F5-0C0B6261F306}|Location de voiture\\Location de voiture.csproj|solutionrelative:location de voiture\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D529E73-6070-46A8-90F5-0C0B6261F306}|Location de voiture\\Location de voiture.csproj|C:\\Users\\dell\\source\\repos\\Location de voiture\\location de voiture\\locations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0D529E73-6070-46A8-90F5-0C0B6261F306}|Location de voiture\\Location de voiture.csproj|solutionrelative:location de voiture\\locations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D529E73-6070-46A8-90F5-0C0B6261F306}|Location de voiture\\Location de voiture.csproj|C:\\Users\\dell\\source\\repos\\Location de voiture\\location de voiture\\chargement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0D529E73-6070-46A8-90F5-0C0B6261F306}|Location de voiture\\Location de voiture.csproj|solutionrelative:location de voiture\\chargement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Voitures.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\Location de voiture\\Location de voiture\\Voitures.cs",
+              "RelativeDocumentMoniker": "Location de voiture\\Voitures.cs",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\Location de voiture\\Location de voiture\\Voitures.cs [Design]",
+              "RelativeToolTip": "Location de voiture\\Voitures.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T14:29:45.914Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Clients.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\Location de voiture\\Location de voiture\\Clients.cs",
+              "RelativeDocumentMoniker": "Location de voiture\\Clients.cs",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\Location de voiture\\Location de voiture\\Clients.cs [Design]",
+              "RelativeToolTip": "Location de voiture\\Clients.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T17:38:21.57Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "catalogue.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\Location de voiture\\Location de voiture\\catalogue.cs",
+              "RelativeDocumentMoniker": "Location de voiture\\catalogue.cs",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\Location de voiture\\Location de voiture\\catalogue.cs",
+              "RelativeToolTip": "Location de voiture\\catalogue.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAwwBUAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T10:09:03.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "catalogue.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\Location de voiture\\Location de voiture\\catalogue.cs",
+              "RelativeDocumentMoniker": "Location de voiture\\catalogue.cs",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\Location de voiture\\Location de voiture\\catalogue.cs [Design]",
+              "RelativeToolTip": "Location de voiture\\catalogue.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T10:09:01.587Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "connexion.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\Location de voiture\\Location de voiture\\connexion.cs",
+              "RelativeDocumentMoniker": "Location de voiture\\connexion.cs",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\Location de voiture\\Location de voiture\\connexion.cs",
+              "RelativeToolTip": "Location de voiture\\connexion.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAcwCUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T09:41:18.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "chargement.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\Location de voiture\\Location de voiture\\chargement.cs",
+              "RelativeDocumentMoniker": "Location de voiture\\chargement.cs",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\Location de voiture\\Location de voiture\\chargement.cs",
+              "RelativeToolTip": "Location de voiture\\chargement.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAAA8AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T21:57:13.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Locations.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\Location de voiture\\Location de voiture\\Locations.cs",
+              "RelativeDocumentMoniker": "Location de voiture\\Locations.cs",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\Location de voiture\\Location de voiture\\Locations.cs",
+              "RelativeToolTip": "Location de voiture\\Locations.cs",
+              "ViewState": "AQIAAKoAAAAAAAAAAAAuwLIAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T16:20:25.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "connexion.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\Location de voiture\\Location de voiture\\connexion.cs",
+              "RelativeDocumentMoniker": "Location de voiture\\connexion.cs",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\Location de voiture\\Location de voiture\\connexion.cs [Design]",
+              "RelativeToolTip": "Location de voiture\\connexion.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T22:10:43.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Voitures.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\Location de voiture\\Location de voiture\\Voitures.cs",
+              "RelativeDocumentMoniker": "Location de voiture\\Voitures.cs",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\Location de voiture\\Location de voiture\\Voitures.cs",
+              "RelativeToolTip": "Location de voiture\\Voitures.cs",
+              "ViewState": "AQIAAJsAAAAAAAAAAAAswKEAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T17:24:18.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Clients.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\Location de voiture\\Location de voiture\\Clients.cs",
+              "RelativeDocumentMoniker": "Location de voiture\\Clients.cs",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\Location de voiture\\Location de voiture\\Clients.cs",
+              "RelativeToolTip": "Location de voiture\\Clients.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAGUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T17:49:44.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Acceuil.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\Location de voiture\\Location de voiture\\Acceuil.cs",
+              "RelativeDocumentMoniker": "Location de voiture\\Acceuil.cs",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\Location de voiture\\Location de voiture\\Acceuil.cs",
+              "RelativeToolTip": "Location de voiture\\Acceuil.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAYwDcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T19:25:59.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\Location de voiture\\Location de voiture\\Program.cs",
+              "RelativeDocumentMoniker": "Location de voiture\\Program.cs",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\Location de voiture\\Location de voiture\\Program.cs",
+              "RelativeToolTip": "Location de voiture\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T09:38:48.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Locations.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\Location de voiture\\Location de voiture\\Locations.cs",
+              "RelativeDocumentMoniker": "Location de voiture\\Locations.cs",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\Location de voiture\\Location de voiture\\Locations.cs [Design]",
+              "RelativeToolTip": "Location de voiture\\Locations.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T14:09:26.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "chargement.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\Location de voiture\\Location de voiture\\chargement.cs",
+              "RelativeDocumentMoniker": "Location de voiture\\chargement.cs",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\Location de voiture\\Location de voiture\\chargement.cs [Design]",
+              "RelativeToolTip": "Location de voiture\\chargement.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T17:25:23.865Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

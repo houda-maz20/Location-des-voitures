@@ -1,0 +1,16 @@
+C:\Users\dell\source\repos\Location de voiture\Location de voiture\bin\Debug\Location de voiture.exe.config
+C:\Users\dell\source\repos\Location de voiture\Location de voiture\bin\Debug\Location de voiture.exe
+C:\Users\dell\source\repos\Location de voiture\Location de voiture\bin\Debug\Location de voiture.pdb
+C:\Users\dell\source\repos\Location de voiture\Location de voiture\obj\Debug\Location de voiture.csproj.AssemblyReference.cache
+C:\Users\dell\source\repos\Location de voiture\Location de voiture\obj\Debug\Location_de_voiture.Acceuil.resources
+C:\Users\dell\source\repos\Location de voiture\Location de voiture\obj\Debug\Location_de_voiture.chargement.resources
+C:\Users\dell\source\repos\Location de voiture\Location de voiture\obj\Debug\Location_de_voiture.connexion.resources
+C:\Users\dell\source\repos\Location de voiture\Location de voiture\obj\Debug\Location_de_voiture.Properties.Resources.resources
+C:\Users\dell\source\repos\Location de voiture\Location de voiture\obj\Debug\Location_de_voiture.Voitures.resources
+C:\Users\dell\source\repos\Location de voiture\Location de voiture\obj\Debug\Location de voiture.csproj.GenerateResource.cache
+C:\Users\dell\source\repos\Location de voiture\Location de voiture\obj\Debug\Location de voiture.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\Location de voiture\Location de voiture\obj\Debug\Location de voiture.exe
+C:\Users\dell\source\repos\Location de voiture\Location de voiture\obj\Debug\Location de voiture.pdb
+C:\Users\dell\source\repos\Location de voiture\Location de voiture\obj\Debug\Location_de_voiture.Clients.resources
+C:\Users\dell\source\repos\Location de voiture\Location de voiture\obj\Debug\Location_de_voiture.Locations.resources
+C:\Users\dell\source\repos\Location de voiture\Location de voiture\obj\Debug\Location_de_voiture.catalogue.resources
